@@ -8,9 +8,9 @@ A machine learning project that analyzes sentiment in cryptocurrency-related twe
 - **Tools**: Python, Pandas, TextBlob, Matplotlib
 
 ## Results
-- Total tweets analyzed: [YOUR_NUMBER]
+- Total tweets analyzed: 9806
 - Sentiment distribution: Bullish/Bearish/Neutral percentages
-- Average sentiment score: [YOUR_SCORE]
+- Average sentiment score: 0.09540218443984277
 
 ## Technologies Used
 - Python
