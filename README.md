@@ -23,7 +23,7 @@ It classifies each tweet as **Bullish**, **Bearish**, or **Neutral**, helping vi
 ### **Dataset**
 - Source: Twitter (crypto-related keywords)  
 - Size: **9,806 tweets**  
-- Output File: `crypto_sentiment_analyzed.csv`
+- Output File: `bitcoin_sentiment_analyzed.csv`
 
 ---
 
