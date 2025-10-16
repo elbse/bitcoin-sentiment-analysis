@@ -94,7 +94,7 @@ It classifies each tweet as **Bullish**, **Bearish**, or **Neutral**, helping vi
 
 The analysis generates several outputs:
 
-- **`crypto_sentiment_analyzed.csv`** — Full dataset with tweet text, sentiment score, and label  
+- **`bitcon_sentiment_analyzed.csv`** — Full dataset with tweet text, sentiment score, and label  
 - **`sentiment_distribution.png`** — Bar chart showing the percentage of Bullish, Bearish, and Neutral tweets  
 - **Console summary report** — Displays totals, averages, and top sentiment examples  
 
